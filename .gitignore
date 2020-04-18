@@ -3,6 +3,17 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+*.swp
+__pycache__/
+*.log
+*.png
+*.result
+*result*/
+data/
+temp.py
+
+
+
 # C extensions
 *.so
 
